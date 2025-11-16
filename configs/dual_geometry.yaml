@@ -1,0 +1,6 @@
+cognitive:
+  prior_strength: 1.0
+  selection_weight: 0.5
+metric:
+  Omega_L: 0.7
+  Omega_m: 0.3

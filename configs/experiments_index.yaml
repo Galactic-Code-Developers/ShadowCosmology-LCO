@@ -1,0 +1,10 @@
+experiments:
+- config: configs/lco_default.yaml
+  name: LCO demo
+  notebook: notebooks/01_LCO_Reconstruction_Demo.ipynb
+- config: configs/shadow_transfer.yaml
+  name: Shadow transfer
+  notebook: notebooks/02_ShadowTransfer_Analysis.ipynb
+- config: configs/dual_geometry.yaml
+  name: Dual geometry
+  notebook: notebooks/03_DualGeometry_and_Coupling.ipynb

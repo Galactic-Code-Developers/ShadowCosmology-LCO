@@ -1,0 +1,16 @@
+proximal:
+  max_iters: 500
+  step_size: 0.001
+  tolerance: 1.0e-06
+seed: 42
+tiers:
+  epsilon:
+  - 1.0e-08
+  - 0.0001
+  - 0.01
+  - 1.0
+  lambda:
+  - 1000000.0
+  - 10000.0
+  - 100.0
+  - 1.0

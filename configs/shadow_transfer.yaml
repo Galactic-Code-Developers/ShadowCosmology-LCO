@@ -1,0 +1,4 @@
+kmax: 0.3
+kmin: 0.01
+nbins: 50
+smooth_sigma: 1.0
