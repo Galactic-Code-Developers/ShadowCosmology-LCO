@@ -11,7 +11,7 @@ This repo provides:
 
 - Minimal, inspectable **Python implementations** of the key constructions:
   - Lexicographic Coherence Operator (LCO)
-  - Shadow Transfer Function \(T_s(k)\)
+  - Shadow Transfer Function $T_s(k)$
   - Shadow Optical Metric (SOM) and Void Refractivity Tensor (VRT)
   - Dual geometry (physical + cognitive curvature)
 - **Synthetic cosmological data** (void fields, mock spectra, noise realizations)
