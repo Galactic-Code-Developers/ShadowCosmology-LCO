@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+astropy
+h5py
+numba
+jax
+jaxlib
+pyyaml
+pytest
+jupyter
