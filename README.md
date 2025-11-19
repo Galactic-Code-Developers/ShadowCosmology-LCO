@@ -28,7 +28,7 @@ See `src/`, `data/`, `configs/`, `notebooks/`, `figures/`, and `tests/` for the 
 ## 2. Installation
 
 ```bash
-git clone https://github.com/<username>/ShadowCosmology-LCO.git
+git clone https://github.com/Galactic-Code-Developers/ShadowCosmology-LCO.git
 cd ShadowCosmology-LCO
 python3 -m venv venv
 source venv/bin/activate
